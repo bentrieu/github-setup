@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#From DevOps course of Mr. Tom Huynh
+
 # Generate an SSH keypair
 ssh-keygen -t rsa -b 4096 -C "s3878466@rmit.edu.vn"
 
