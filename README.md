@@ -3,16 +3,10 @@ Shell script to set github credential on a virtual machine, used for UNIX assign
 <br>
 remember to: <br>
 sudo apt install git<br>
-
-then <br>
 git clone https://github.com/bentrieu/github-setup<br>
-
-then<br>
-cd ./github-setup<be>
-
-then<br>
+cd ./github-setup<br>
 chmod +x ./setup-git.sh<br>
+./setup-git.sh<br>
 
-then<br>
-./setup-git.sh
+Lastly, pray
 
