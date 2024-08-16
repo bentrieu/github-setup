@@ -1,5 +1,4 @@
 # github-setup
-Shell script to set github credential on a virtual machine, used for UNIX assignment 2 rmit uniasdkfjdalkfjsdf
 <br>
 remember to: <br>
 
