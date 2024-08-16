@@ -26,3 +26,7 @@ echo "- Paste the key and save it"
 echo
 echo "Test the connection using the following command:"
 echo "ssh -T git@github.com"
+
+echo "After setting up the SSH, clone remote github repository"
+echo "git clone git@github.com:PhiThai1309/real-estate.git"
+
