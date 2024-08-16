@@ -9,5 +9,9 @@ cd ./github-setup<br>
 chmod +x ./setup-git.sh<br>
 ./setup-git.sh<br>
 
+After finish setting up the git cred, run: <br> 
+chmod +x ./run-web.sh<br>
+./run-web.sh<br>
+
 Lastly, pray
 
